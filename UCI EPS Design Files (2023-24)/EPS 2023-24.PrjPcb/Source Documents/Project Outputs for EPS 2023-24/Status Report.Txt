@@ -1,0 +1,10 @@
+Output: Cadnetix Netlist
+Type  : CadnetixNetlist
+From  : Project [EPS 2023-24.PrjPcb]
+   Generated File[EPS 2023-24.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:15:07 AM On 4/19/2024

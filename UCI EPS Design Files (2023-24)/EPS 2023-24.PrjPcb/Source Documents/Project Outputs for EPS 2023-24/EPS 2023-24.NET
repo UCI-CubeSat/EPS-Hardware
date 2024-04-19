@@ -1,0 +1,559 @@
+PARTS LIST
+
++3V3                              +3V1
+0878311020        SHDR10W55P200_2X5_1265X630X640ADCS
+Header4           SAMTEC-TMM-102-01-X-DANT
+Bat               SHDR2W64P0X254_1X2_508X580X117BAT
+5040500491        5040500491      BOTTOM
+1uf               YAG_CC0603_YAG-LC1
+1uf               YAG_CC0603_YAG-LC2
+1uf               YAG_CC0603_YAG-LC3
+1uf               YAG_CC0603_YAG-LC4
+1uf               YAG_CC0603_YAG-LC5
+1uf               YAG_CC0603_YAG-LC6
+1uf               YAG_CC0603_YAG-LC7
+1uf               YAG_CC0603_YAG-LC8
+1uf               YAG_CC0603_YAG-LC9
+1uf               YAG_CC0603_YAG-LC10
+1uf               YAG_CC0603_YAG-LC11
+1uf               YAG_CC0603_YAG-LC12
+1uf               YAG_CC0603_YAG-LC13
+10uf              CAPC2012X70     C14
+1uf               YAG_CC0603_YAG  C15
+100uf             CAP_CC1210_YAG  C16
+10uf              CAPC2012X70     C17
+1uf               YAG_CC0603_YAG  C18
+100uf             CAP_CC1210_YAG  C19
+10uf              CAPC2012X70     C20
+1uf               YAG_CC0603_YAG  C21
+100uf             CAP_CC1210_YAG  C22
+10uf              CAPC2012X70     C23
+1uf               YAG_CC0603_YAG  C24
+100uf             CAP_CC1210_YAG  C25
+1uf               YAG_CC0603_YAG  C26
+1uf               YAG_CC0603_YAG  C27
+1uf               YAG_CC0603_YAG  C28
+1uf\              YAG_CC0603_YAG  C29
+1uf               YAG_CC0603_YAG  C30
+1oouf             CAPC3225X280N   C31
+100uf             CAPC3225X280N   C32
+100uf             CAPC3225X280N   C33
+100uf             CAPC3225X280N   C34
+100uf             CAPC3225X280N   C35
+100uf             CAPC3225X280N   C36
+100uf             CAPC3225X280N   C37
+1uf               YAG_CC0603_YAG  C38
+1uf               YAG_CC0603_YAG  C39
+10uf              CAPC2012X70     C40
+10uf              CAPC2012X70     C41
+1uf               YAG_CC0603_YAG  C42
+1uf               YAG_CC0603_YAG  C43
+100pf             CAPC1608X90     C44
+100uf             CAP_CC1210_YAG  C45
+10uf              CAPC2012X70     C46
+100uf             CAPC3225X280N   C47
+1uf               YAG_CC0603_YAG  C49
+1uf               YAG_CC0603_YAG  C50
+10uf              CAPC2012X70     C51
+10uf              CAPC2012X70     C52
+100uf             CAPC3225X280N   C53
+100uf             CAPC3225X280N   C54
+100uf             CAPC3225X280N   C55
+100uf             CAPC3225X280N   C56
+100uf             CAPC3225X280N   C57
+1uf               YAG_CC0603_YAG  C61
+1uf               YAG_CC0603_YAG  C62
+10uf              CAPC2012X70     C63
+10uf              CAPC2012X70     C64
+100uf             CAPC3225X280N   C65
+100uf             CAPC3225X280N   C66
+100uf             CAPC3225X280N   C67
+10uf              CAPC2012X70     C70
+10uf              CAPC2012X70     C71
+10uf              CAPC2012X70     C72
+10uf              CAPC2012X70     C73
+10uf              CAPC2012X70     C74
+10uf              CAPC2012X70     C75
+10uf              CAPC2012X70     C76
+10uf              CAPC2012X70     C77
+1uf               YAG_CC0603_YAG  C78
+1uf               YAG_CC0603_YAG-LC79
+0.1uF             CC0603N_YAG     C80
+10nF              CC0603N_YAG     C81
+47pF              CC0603N_YAG     C82
+1000pF            CC0603N_YAG     C83
+1000pF            CC0603N_YAG     C84
+33uF              CAPC2012X70     C85
+0.1uF             CC0603N_YAG     C86
+47uF              CAPC2012X70     C87
+47uF              CAPC2012X70     C88
+33uF              CAPC2012X70     C89
+1000pF            CC0603N_YAG     C90
+39pF              CAPC2012X70     C91
+4700pF            CC0603N_YAG     C92
+10nF              CC0603N_YAG     C93
+Header 2          SHDR2W64P0X254_1X2_508X580X117CB2
+0878311020        SHDR10W55P200_2X5_1265X630X640COMM
+EGF1B             DIOM449X264X300L114X135ND1
+PMEG2005AEA,115   SOD2512X110N    D2
+PMEG2005AEA,115   SOD2512X110N    D3
+PMEG2005AEA,115   SOD2512X110N    D4
+PMEG2005AEA,115   SOD2512X110N    D5
+PMEG2005AEA,115   SOD2512X110N    D6
+PMEG2005AEA,115   SOD2512X110N    D7
+VSSAF3N50-M3/6A   DIOM5226X100N   D8
+PMEG6030EVPX      DIO_PMEG6030EVPXD9
+0022272021        SHDR2W64P0X254_1X2_508X580X117DEPB
+0022272021        SHDR2W64P0X254_1X2_508X580X117DEPL
+0022272021        SHDR2W64P0X254_1X2_508X580X117DEPR
+0022272021        SHDR2W64P0X254_1X2_508X580X117DEPT
+Header4           SAMTEC-TMM-102-01-X-DHEATERS
+TC74A0-5.0VCTTR   SOT95P280X145-5NIC1
+TC74A0-5.0VCTTR   SOT95P280X145-5NIC2
+INA139NA_250      SOT95P280X145-5NIC3
+INA139NA_250      SOT95P280X145-5NIC4
+FDFS6N548         SOIC127P600X175-8NIC5
+22uH              SRU8043220Y     IC6
+INA139NA_250      SOT95P280X145-5NIC7
+MCP1416T-E_OT     SOT95P270X145-5NIC8
+FDFS6N548         SOIC127P600X175-8NIC9
+22uH              SRU8043220Y     IC10
+INA139NA_250      SOT95P280X145-5NIC11
+MCP1416T-E_OT     SOT95P270X145-5NIC12
+FDFS6N548         SOIC127P600X175-8NIC13
+22uH              SRU8043220Y     IC14
+INA139NA_250      SOT95P280X145-5NIC15
+MCP1416T-E_OT     SOT95P270X145-5NIC16
+FDFS6N548         SOIC127P600X175-8NIC17
+22uH              SRU8043220Y     IC18
+INA139NA_250      SOT95P280X145-5NIC19
+MCP1416T-E_OT     SOT95P270X145-5NIC20
+INA139NA_250      SOT95P280X145-5NIC28
+FDV305N           SOT95P240X120-3NIC29
+FDV305N           SOT95P240X120-3NIC30
+FDV305N           SOT95P240X120-3NIC31
+FDV305N           SOT95P240X120-3NIC32
+FDV305N           SOT95P240X120-3NIC33
+FDV305N           SOT95P240X120-3NIC34
+FDV305N           SOT95P240X120-3NIC35
+FDV305N           SOT95P240X120-3NIC36
+INA139NA_250      SOT95P280X145-5NIC37
+MCP1416T-E_OT     SOT95P270X145-5NIC38
+MCP1416T-E_OT     SOT95P270X145-5NIC39
+MCP1416T-E_OT     SOT95P270X145-5NIC40
+MCP1416T-E_OT     SOT95P270X145-5NIC41
+BM10B-GHS-TBT(LF)(SN)(N)JST_BM10B-GHS-TBT(LF)(SN)(N)J1
+0022272031        MOLEX_0022272031J3
+B82464G4333M000   IND_B82464G4_EPCL1
+B82464G4333M000   IND_B82464G4_EPCL2
+B82464G4333M000   IND_B82464G4_EPCL3
+B82464G4333M000   IND_B82464G4_EPCL4
+SRR1260-6R8Y      INDP125125X600N L7
+SRR1260-6R8Y      INDP125125X600N L8
+5040500491        5040500491      LEFT
+0878311020        SHDR10W55P200_2X5_1265X630X640OBC
+NTR2101PT1G       SOT96P237X111-3NQ1
+NTR2101PT1G       SOT96P237X111-3NQ2
+NTR2101PT1G       SOT96P237X111-3NQ3
+NTR2101PT1G       SOT96P237X111-3NQ4
+NTR2101PT1G       SOT96P237X111-3NQ5
+NTR2101PT1G       SOT96P237X111-3NQ6
+NTR2101PT1G       SOT96P237X111-3NQ7
+NTR2101PT1G       SOT96P237X111-3NQ8
+NTR2101PT1G       SOT96P237X111-3NQ9
+NTR2101PT1G       SOT96P237X111-3NQ10
+NTR2101PT1G       SOT96P237X111-3NQ11
+NTR2101PT1G       SOT96P237X111-3NQ12
+NTR2101PT1G       SOT96P237X111-3NQ13
+NTR2101PT1G       SOT96P237X111-3NQ14
+NTR2101PT1G       SOT96P237X111-3NQ15
+NTR2101PT1G       SOT96P237X111-3NQ16
+NTR2101PT1G       SOT96P237X111-3NQ17
+1k                RESC1608X55N    R1
+56k               RESC1608X55N    R2
+22.1k             RESC1608X55N    R3
+22.1k             RESC1608X55N    R4
+jumper            RESC1508X50N    R5
+jumper            RESC1508X50N    R6
+56k               RESC1608X55N    R7
+2.7               RESC1608X55N    R8
+0.05              RESC1608X55N    R9
+51k               RESC1608X55N    R10
+22.1k             RESC1608X55N    R11
+10k               RESC1608X55N    R12
+22.1k             RESC1608X55N    R13
+3.24k             RESC1608X55N    R14
+56k               RESC1608X55N    R15
+jumper            RESC1508X50N    R16
+jumper            RESC1508X50N    R17
+2.7               RESC1608X55N    R18
+0.05              RESC1608X55N    R19
+51k               RESC1608X55N    R20
+22.1k             RESC1608X55N    R21
+22.1k             RESC1608X55N    R22
+29.4k             RESC1608X55N    R23
+56k               RESC1608X55N    R24
+10k               RESC1608X55N    R25
+jumper            RESC1508X50N    R26
+jumper            RESC1508X50N    R27
+2.7               RESC1608X55N    R28
+0.05              RESC1608X55N    R29
+51k               RESC1608X55N    R30
+22.1k             RESC1608X55N    R31
+22.1k             RESC1608X55N    R32
+1k                RESC1608X55N    R33
+56k               RESC1608X55N    R34
+10k               RESC1608X55N    R35
+jumper            RESC1508X50N    R36
+jumper            RESC1508X50N    R37
+2.7               RESC1608X55N    R38
+0.05              RESC1608X55N    R39
+51k               RESC1608X55N    R40
+22.1k             RESC1608X55N    R41
+22.1k             RESC1608X55N    R42
+1k                RESC1608X55N    R43
+56k               RESC1608X55N    R44
+10k               RESC1608X55N    R45
+1.91k             RESC1608X55N    R46
+0.05              RESC1608X55N    R50
+2k                RESC1608X55N    R51
+2.7               RESC1608X55N    R52
+56k               RESC1608X55N    R53
+2.7               RESC1608X55N    R54
+56k               RESC1608X55N    R55
+2.7               RESC1608X55N    R56
+56k               RESC1608X55N    R57
+2.7               RESC1608X55N    R58
+56k               RESC1608X55N    R59
+2.7               RESC1608X55N    R60
+56k               RESC1608X55N    R61
+2.7               RESC1608X55N    R62
+56k               RESC1608X55N    R63
+0.05              RESC1608X55N    R67
+2k                RESC1608X55N    R68
+2.7               RESC1608X55N    R69
+56k               RESC1608X55N    R70
+2.7               RESC1608X55N    R71
+56k               RESC1608X55N    R72
+2.7               RESC1608X55N    R73
+56k               RESC1608X55N    R74
+2.7               RESC1608X55N    R75
+56k               RESC1608X55N    R76
+2.7               RESC1608X55N    R77
+2.7               RESC1608X55N    R78
+2.7               RESC1608X55N    R79
+2.7               RESC1608X55N    R80
+1k                RESC1608X55N    R81
+1k                RESC1608X55N    R82
+1k                RESC1608X55N    R83
+22.1k             RESC1608X55N    R84
+2.7               RESC1608X55N    R85
+56k               RESC1608X55N    R86
+10k               RESC1608X55N    R87
+10k               RESC1608X55N    R88
+49.9k             RESC1608X55N    R89
+5040500491        5040500491      RIGHT
+0878311020        SHDR10W55P200_2X5_1265X630X640SU1
+5040500491        5040500491      TOP
+STM32L152R6T6     QFP50P1200X1200X160-64NU1
+TPS54331GDR       SOIC127P599X175-8NU3
+TPS54331GDR       SOIC127P599X175-8NU5
+Header4           SAMTEC-TMM-102-01-X-DUMB
+EOS
+NET LIST
+
+NODENAME VCC              $
+    ANT        1  ANT        2  ANT        3  ANT        4  D2         1  D3         1  D4         1  D5         1  D6         1  D6         2  D7         1  DEPB       1  DEPL       1  DEPR       1  DEPT       1  HEATERS    3  HEATERS    4  IC8        2  IC12       2  IC16       2  IC20       2  IC33       3  IC34       3  R5         2  R16        2  R26        2  R36        2
+NODENAME VCC              $
+    C56        2  C57        2  IC28       4  IC37       5  IC38       2  IC39       2  IC40       2  IC41       2  Q1         3  Q2         3  Q3         3  Q4         3  Q5         3  Q6         3  Q7         3  Q8         3  R50        2
+NODENAME VCC              $
+    C26        2  C27        2  C28        2  C29        2  C30        2
+NODENAME VBAT             $
+    R3         1  R4         2
+NODENAME TX               $
+    J1         2
+NODENAME SWDIO            $
+    J1         8
+NODENAME SWCLK            $
+    J1         9
+NODENAME SU_ONOFF2        $
+    IC38       3  Q13        1  Q14        1  R70        1  R79        2
+NODENAME SU_ONOFF         $
+    R79        1  R82        2
+NODENAME SU_5V            $
+    C70        2  Q1         2  Q2         2  SU1        9  SU1       10
+NODENAME SU_3_3V          $
+    C76        2  Q13        2  Q14        2  SU1        1  SU1        2
+NODENAME SDA              $
+    IC1        5  IC2        5  R87        1
+NODENAME SCL              $
+    IC1        4  IC2        4  R88        1
+NODENAME RX               $
+    J1         3
+NODENAME RTS              $
+    J1         4
+NODENAME PC3              $
+    R84        1  UMB        3
+NODENAME OBC_ONOFF2       $
+    IC40       3  Q9         1  Q10        1  R74        1  R77        2
+NODENAME OBC_ONOFF        $
+    R77        1
+NODENAME OBC_5V           $
+    C72        2  OBC        6  OBC        7  OBC        8  Q5         2  Q6         2
+NODENAME OBC_3_3V         $
+    C74        2  OBC        3  OBC        4  OBC        5  Q9         2  Q10        2
+NODENAME NRST             $
+    J1         6
+NODENAME NetU1-52         $
+    U1        52
+NODENAME NetU1-51         $
+    U1        51
+NODENAME NetU1-49         $
+    U1        49
+NODENAME NetU1-46         $
+    U1        46
+NODENAME NetU1-45         $
+    U1        45
+NODENAME NetU1-44         $
+    U1        44
+NODENAME NetU1-30         $
+    U1        30
+NODENAME NetU1-29         $
+    U1        29
+NODENAME NetU1-28         $
+    U1        28
+NODENAME NetU1-11         $
+    U1        11
+NODENAME NetU1-10         $
+    U1        10
+NODENAME NetU1-7          $
+    U1         7
+NODENAME NetU1-5          $
+    U1         5
+NODENAME NetU1-4          $
+    U1         4
+NODENAME NetU1-3          $
+    U1         3
+NODENAME NetU1-2          $
+    U1         2
+NODENAME NetR62-2         $
+    R62        2  R63        1  U1        41
+NODENAME NetR60-1         $
+    R60        1  R61        1  U1        39
+NODENAME NetR58-2         $
+    R58        2  R59        2  U1        61
+NODENAME NetR56-2         $
+    R56        2  R57        2  U1        40
+NODENAME NetR54-2         $
+    R54        2  R55        2  U1         6
+NODENAME NetR52-2         $
+    R52        2  R53        2  U1        25
+NODENAME NetR45-2         $
+    R45        2  R46        1  U5         5
+NODENAME NetR41-1         $
+    R41        1  R42        2  U1        34
+NODENAME NetR33-2         $
+    R33        2  R35        1  U3         3
+NODENAME NetR31-1         $
+    R31        1  R32        2  U1         8
+NODENAME NetR25-1         $
+    R25        1  R43        2  U5         3
+NODENAME NetR12-2         $
+    R12        2  R14        1  U3         5
+NODENAME NetR11-1         $
+    R11        1  R13        2  U1        36
+NODENAME NetQ17-1         $
+    Q17        1  R85        2
+NODENAME NetQ7-1          $
+    Q7         1  Q8         1  R75        2
+NODENAME NetQ5-1          $
+    Q5         1  Q6         1  R73        2
+NODENAME NetQ3-1          $
+    Q3         1  Q4         1  R71        2
+NODENAME NetQ1-1          $
+    Q1         1  Q2         1  R69        2
+NODENAME NetIC41-5        $
+    IC41       5  R75        1
+NODENAME NetIC40-5        $
+    IC40       5  R73        1
+NODENAME NetIC39-5        $
+    IC39       5  R71        1
+NODENAME NetIC38-5        $
+    IC38       5  R69        1
+NODENAME NetIC35-1        $
+    IC35       1  IC36       1  R62        1
+NODENAME NetIC33-1        $
+    IC33       1  IC34       1  R60        2
+NODENAME NetIC32-1        $
+    IC32       1  R58        1
+NODENAME NetIC31-1        $
+    IC31       1  R56        1
+NODENAME NetIC30-1        $
+    IC30       1  R54        1
+NODENAME NetIC29-1        $
+    IC29       1  R52        1
+NODENAME NetIC20-5        $
+    IC20       5  R38        1
+NODENAME NetIC20-3        $
+    IC20       3  R44        2  U1        27
+NODENAME NetIC19-1        $
+    IC19       1  R40        2  U1        33
+NODENAME NetIC18-1        $
+    IC18       1  IC19       4  R39        2
+NODENAME NetIC17-4        $
+    IC17       4  R38        2
+NODENAME NetIC17-1        $
+    IC17       1  IC17       2  IC17       5  IC17       6  L4         1
+NODENAME NetIC16-5        $
+    IC16       5  R28        1
+NODENAME NetIC16-3        $
+    IC16       3  R34        2  U1        23
+NODENAME NetIC15-1        $
+    IC15       1  R30        2  U1         9
+NODENAME NetIC14-1        $
+    IC14       1  IC15       4  R29        2
+NODENAME NetIC13-4        $
+    IC13       4  R28        2
+NODENAME NetIC13-1        $
+    IC13       1  IC13       2  IC13       5  IC13       6  L3         1
+NODENAME NetIC12-5        $
+    IC12       5  R18        1
+NODENAME NetIC12-3        $
+    IC12       3  R24        2  U1        26
+NODENAME NetIC10-1        $
+    IC10       1  IC11       4  R19        2
+NODENAME NetIC9-4         $
+    IC9        4  R18        2
+NODENAME NetIC9-1         $
+    IC9        1  IC9        2  IC9        5  IC9        6  L2         1
+NODENAME NetIC8-5         $
+    IC8        5  R8         1
+NODENAME NetIC8-3         $
+    IC8        3  R15        2  U1        37
+NODENAME NetIC7-3         $
+    IC7        3  R9         1  R11        2
+NODENAME NetIC7-1         $
+    IC7        1  R10        2  U1        35
+NODENAME NetIC6-1         $
+    IC6        1  IC7        4  R9         2
+NODENAME NetIC5-4         $
+    IC5        4  R8         2
+NODENAME NetIC5-1         $
+    IC5        1  IC5        2  IC5        5  IC5        6  L1         1
+NODENAME NetIC3-4         $
+    IC3        4  IC3        5  IC4        3  J3         2  R1         1
+NODENAME NetD7-2          $
+    D7         2  HEATERS    1  HEATERS    2  IC35       3  IC36       3
+NODENAME NetD5-2          $
+    D5         2  DEPB       2  IC32       3
+NODENAME NetD4-2          $
+    D4         2  DEPR       2  IC31       3
+NODENAME NetD3-2          $
+    D3         2  DEPL       2  IC30       3
+NODENAME NetD2-2          $
+    D2         2  DEPT       2  IC29       3
+NODENAME NetCB2-2         $
+    CB2        2  J3         3
+NODENAME NetC93-2         $
+    C93        2  U5         4
+NODENAME NetC92-1         $
+    C92        1  R89        2
+NODENAME NetC91-1         $
+    C91        1  C92        2  U5         6
+NODENAME NetC86-2         $
+    C86        2  U5         1
+NODENAME NetC86-1         $
+    C86        1  D8         C  L7         2  U5         8
+NODENAME NetC84-1         $
+    C84        1  R23        2
+NODENAME NetC82-2         $
+    C82        2  C84        2  U3         6
+NODENAME NetC81-2         $
+    C81        2  U3         4
+NODENAME NetC80-2         $
+    C80        2  U3         1
+NODENAME NetC80-1         $
+    C80        1  D9         1  L8         2  U3         8
+NODENAME NetC79-2         $
+    C79        2  R21        1  R22        2  U1        22
+NODENAME NetC49-2         $
+    C49        2  C50        2  C51        1  C52        1  C53        2  C54        2  C55        2  C85        1  C89        1  IC28       3  IC28       5  L7         1  R45        1  R50        1
+NODENAME NetC47-2         $
+    C47        2  C61        2  C62        2  C63        1  C64        1  C65        2  C66        2  C67        2  C87        1  C88        1  IC37       3  L8         1  R12        1  R67        1
+NODENAME NetC25-2         $
+    C25        2  IC18       2  L4         2
+NODENAME NetC24-2         $
+    C24        2  IC19       5  R36        1  R37        1
+NODENAME NetC22-2         $
+    C22        2  IC14       2  L3         2
+NODENAME NetC21-2         $
+    C21        2  IC15       5  R26        1  R27        1
+NODENAME NetC19-2         $
+    C19        2  IC10       2  L2         2
+NODENAME NetC18-2         $
+    C18        2  IC11       5  R16        1  R17        1
+NODENAME NetC16-2         $
+    C16        2  IC6        2  L1         2
+NODENAME NetC15-2         $
+    C15        2  IC7        5  R5         1  R6         1
+NODENAME NetC13-2         $
+    C13        2  U1        16
+NODENAME NetC12-2         $
+    C12        2  U1        15
+NODENAME NetC11-2         $
+    C11        2  IC11       1  R20        2  U1        21
+NODENAME NetC10-2         $
+    C10        2  U1        20
+NODENAME NetC9-2          $
+    C9         2  U1        17
+NODENAME NetC4-2          $
+    C4         2  C78        1  IC1        3  IC2        3  Q17        2  R87        2  R88        2
+NODENAME IBAT-            $
+    IC4        1  R7         1
+NODENAME IBAT+            $
+    IC3        1  R2         2
+NODENAME I5V              $
+    IC28       1  R51        2
+NODENAME I3_3V            $
+    IC37       1  R68        2
+NODENAME I2CRESET         $
+    R85        1  R86        1
+NODENAME GND              $
+    ADCS       1  ADCS       2  ADCS       9  ADCS      10  C47        1  C49        1  C50        1  C51        2  C52        2  C53        1  C54        1  C55        1  C56        1  C57        1  C61        1  C62        1  C63        2  C64        2  C65        1  C66        1  C67        1  C70        1  C71        1  C72        1  C73        1  C74        1  C75        1  C76        1  C77        1  C81        1  C82        1  C83        2  C85        2  C87        2  C88        2  C89        2  C90        1  C91        2  C93        1  COMM       1  COMM       2  COMM       9  COMM      10  D8         A  D9         2  IC28       2  IC37       2  IC38       4  IC39       4  IC40       4  IC41       4  OBC        1  OBC        2  OBC        9  OBC       10  R14        2  R23        1  R33        1  R43        1  R46        2  R51        1  R68        1  R70        2  R72        2  R74        2  R76        2  R81        1  R82        1  R83        1  R89        1  SU1        3  SU1        4  SU1        5  SU1        6  SU1        7  SU1        8  U3         7  U5         7
+NODENAME CTS              $
+    J1         5
+NODENAME COMM_ONOFF2      $
+    IC39       3  Q11        1  Q12        1  R72        1  R78        2
+NODENAME COMM_ONOFF       $
+    R78        1  R81        2
+NODENAME COMM_5V          $
+    C71        2  COMM       6  COMM       7  COMM       8  Q3         2  Q4         2
+NODENAME COMM_3_3V        $
+    C75        2  COMM       3  COMM       4  COMM       5  Q11        2  Q12        2
+NODENAME BOTTOM           $
+    BOTTOM     1  BOTTOM     2  BOTTOM     3  BOTTOM     4  C1         1  C2         1  C3         1  C4         1  C5         1  C6         1  C7         1  C8         1  C9         1  C10        1  C11        1  C12        1  C13        1  C14        2  C15        1  C16        1  C17        2  C18        1  C19        1  C20        2  C21        1  C22        1  C23        2  C24        1  C25        1  C26        1  C27        1  C28        1  C29        1  C30        1  C31        1  C32        1  C33        1  C34        1  C35        1  C36        1  C37        1  C38        1  C39        1  C40        2  C41        2  C42        1  C43        1  C44        2  C45        1  C46        2  C78        2  C79        1  D1         A  IC1        2  IC2        2  IC3        2  IC4        2  IC5        3  IC7        2  IC8        4  IC9        3  IC11       2  IC11       3  IC12       4  IC13       3  IC15       2  IC15       3  IC16       4  IC17       3  IC19       2  IC19       3  IC20       4  IC29       2  IC30       2  IC31       2  IC32       2  IC33       2  IC34       2  IC35       2  IC36       2  J1         7  J1        10  LEFT       1  LEFT       2  LEFT       3  LEFT       4  R2         1  R4         1  R7         2  R10        1  R13        1  R15        1  R19        1  R20        1  R21        2  R22        1  R24        1  R29        1  R30        1  R31        2  R32        1  R34        1  R39        1  R40        1  R41        2  R42        1  R44        1  R53        1  R55        1  R57        1  R59        1  R61        2  R63        2  R86        2  RIGHT      1  RIGHT      2  RIGHT      3  RIGHT      4  TOP        1  TOP        2  TOP        3  TOP        4  U1        12  U1        18  U1        31  U1        47  U1        60  U1        63  UMB        4
+NODENAME BAT-             $
+    BAT        2  CB2        1  UMB        2
+NODENAME BAT+             $
+    BAT        1  J3         1  R3         2  UMB        1
+NODENAME ADCS_ONOFF2      $
+    IC41       3  Q15        1  Q16        1  R76        1  R80        2
+NODENAME ADCS_ONOFF       $
+    R80        1  R83        2
+NODENAME ADCS_5V          $
+    ADCS       6  ADCS       7  ADCS       8  C73        2  Q7         2  Q8         2
+NODENAME ADCS_3_3V        $
+    ADCS       3  ADCS       4  ADCS       5  C77        2  Q15        2  Q16        2
+NODENAME 12V              $
+    C14        1  C17        1  C20        1  C23        1  C83        1  C90        2  IC3        3  IC4        4  IC4        5  IC5        7  IC5        8  IC9        7  IC9        8  IC13       7  IC13       8  IC17       7  IC17       8  R1         2  R6         2  R17        2  R25        2  R27        2  R35        2  R37        2  U3         2  U5         2
+NODENAME 12V              $
+    C31        2  C32        2  C33        2  C34        2  C35        2  C36        2  C37        2  C38        2  C39        2  C40        1  C41        1  D1         C
+NODENAME 3_3V             $
+    IC37       4  Q9         3  Q10        3  Q11        3  Q12        3  Q13        3  Q14        3  Q15        3  Q16        3  R67        2
+NODENAME 3_3V             $
+    U1         1  U1        13  U1        19  U1        32  U1        48  U1        64
+NODENAME 3_3V             $
+    C42        2  C43        2  C44        1  C45        2  C46        1
+NODENAME 3_3V             $
+    +3V1          J1         1  Q17        3  R84        2
+EOS
